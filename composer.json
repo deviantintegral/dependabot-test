@@ -1,6 +1,12 @@
 {
     "name": "deviantintegral/dependabot-test",
     "type": "project",
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/deviantintegral/drupal-symfony-lock"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Deviantintegral\\DependabotTest\\": "src/"
@@ -12,5 +18,7 @@
             "email": "andrew@furrypaws.ca"
         }
     ],
-    "require": {}
+    "require": {
+        "lullabot/drupal-symfony-lock": "dev-fix-reverse-wait as 1.0.0"
+    }
 }
