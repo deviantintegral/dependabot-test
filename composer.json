@@ -1,0 +1,16 @@
+{
+    "name": "deviantintegral/dependabot-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Deviantintegral\\DependabotTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Berry",
+            "email": "andrew@furrypaws.ca"
+        }
+    ],
+    "require": {}
+}
