@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5ee1df93a3237c2e0e714e8f6f577b3c",
+    "content-hash": "f15ecb6470840d51909e3f69a8b2e496",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4580,14 +4580,7 @@
         }
     ],
     "packages-dev": [],
-    "aliases": [
-        {
-            "package": "lullabot/drupal-symfony-lock",
-            "version": "dev-fix-reverse-wait",
-            "alias": "1.0.0",
-            "alias_normalized": "1.0.0.0"
-        }
-    ],
+    "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
         "lullabot/drupal-symfony-lock": 20

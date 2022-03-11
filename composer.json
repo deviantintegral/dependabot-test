@@ -19,6 +19,6 @@
         }
     ],
     "require": {
-        "lullabot/drupal-symfony-lock": "dev-fix-reverse-wait as 1.0.0"
+        "lullabot/drupal-symfony-lock": "dev-fix-reverse-wait"
     }
 }
